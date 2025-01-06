@@ -8,7 +8,6 @@ Escriba el codigo que ejecute la accion solicitada en cada pregunta.
 def pregunta_02():
     """
     Retorne el string "Hello cruel world!"world!
-
     """
 
     return "Hello cruel world!"

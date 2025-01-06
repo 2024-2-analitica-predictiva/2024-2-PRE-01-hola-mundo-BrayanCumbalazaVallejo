@@ -9,7 +9,6 @@ def pregunta_01():
     """
     Retorne el string "Hola mundo cruel!"
     """
-
     return "Hola mundo cruel!"
 
 
